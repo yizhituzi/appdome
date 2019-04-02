@@ -1,7 +1,30 @@
 # Senior-university
 
 #### 介绍
-老年大学项目
+●assets静态资源
+●img图片
+●.scss工具函数
+●components组件
+●enum 枚举值
+●lib第三方依赖
+●pages 页面
+●文件夹为一级菜单
+●二级菜单如果有多个页面则以文件夹形式.否则则以单文件形式
+●plugins 插件和混入对象
+●project-config项目配置
+●router路由
+●根路径路由commonjs
+●模块路由xx.js 
+●所有路径入口indexjis
+●store 结构与router相同
+●utils工具函数
+
+命名规范
+1.文件单词用-隔开
+2.变星用驼峰命名
+3. class用-命名, id用驼峰命名
+4.禁止使用标签选择器和!important5.业务逻辑抽离
+
 
 #### 软件架构
 软件架构说明
