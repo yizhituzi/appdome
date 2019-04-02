@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "dayjs": "^1.8.12",
+    "echarts": "^4.2.1",
+    "moment": "^2.24.0"
+  }
+}
